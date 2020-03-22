@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 22 14:34:30 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0171-017c-852a-00000dcfc020 
+on database directory D:\Work8Oracle\OCI_Workspace\sample_project\AdvocateHelper\AdvocateDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/D:/AdvocateHelperV1.7/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=D:\Work8Oracle\OCI_Workspace\sample_project\AdvocateHelper
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
